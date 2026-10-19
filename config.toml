@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://blog.fit-isec.net/"
+base_url = "https://sl91994.github.io/fit_isec_blog/"
 
 # The title of the site
 title = "FIT_ISec"
